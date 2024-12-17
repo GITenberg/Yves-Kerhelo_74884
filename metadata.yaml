@@ -1,0 +1,32 @@
+_repo: Yves-Kerhelo_74884
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Scott, Georges
+    gutenberg_agent_id: '57706'
+    url: http://www.gutenberg.org/2009/agents/57706
+creator:
+  author:
+    agent_name: Delorme, Marie
+    gutenberg_agent_id: '57705'
+    url: http://www.gutenberg.org/2009/agents/57705
+description: ''
+gutenberg_issued: '2024-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74884'
+language: fr
+pgterms:marc904: https://bibliotheque-numerique.bu.uca.fr/s/bibnum-uca/item/410802
+pgterms:marc905: 20240216083715delorme
+pgterms:marc906: '1904'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the bibliothèque numérique de l'Université Clermont Auvergne)
+publication_note: '  $aParis :$bArmand Colin, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Yves Kerhélo
+url: http://www.gutenberg.org/ebooks/74884
