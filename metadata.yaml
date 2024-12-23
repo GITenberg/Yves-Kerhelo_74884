@@ -5,12 +5,17 @@ contributor:
     agent_name: Scott, Georges
     gutenberg_agent_id: '57706'
     url: http://www.gutenberg.org/2009/agents/57706
+covers:
+- cover_type: archival
+  image_path: 74884-h/images/cover.jpg
 creator:
   author:
     agent_name: Delorme, Marie
     gutenberg_agent_id: '57705'
     url: http://www.gutenberg.org/2009/agents/57705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74884#Yves-Kerhelo
 gutenberg_issued: '2024-12-12'
 gutenberg_type: Text
 identifiers:
